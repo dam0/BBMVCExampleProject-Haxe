@@ -1,6 +1,6 @@
-package views;
-import controllers.GetSomeDataController;
-import models.MainDM;
+package example.views;
+import example.controllers.GetSomeDataController;
+import example.models.MainDM;
 
 /**
  * ...

@@ -1,7 +1,7 @@
-package views;
+package example.views;
 import flash.display.Sprite;
 import flash.events.Event;
-import models.MainDM;
+import example.models.MainDM;
 import org.bbmvc.views.IBBView;
 
 /**
@@ -14,6 +14,7 @@ class PanelView extends Sprite, implements IBBView
 	private var dm:MainDM;
 	private var pm:PanelViewPM;
 	public var viewId:String;	
+	//public var name:String;	
 	
 	public function new(dm:MainDM, name:String) {
 		trace('new');

@@ -1,13 +1,13 @@
-package ;
+package example ;
 
 import flash.display.Sprite;
 import flash.display.StageAlign;
 import flash.display.StageScaleMode;
 import flash.events.Event;
 import flash.Lib;
-import models.MainDM;
+import example.models.MainDM;
 import org.bbmvc.views.IBBView;
-import views.PanelView;
+import example.views.PanelView;
 
 /**
  * ...
@@ -21,6 +21,7 @@ class Main extends Sprite, implements IBBView
 	private var panel : PanelView;	
 	
 	public var viewId:String;	
+	//public var name:String;	
 	
 	public function new() {
 		super();

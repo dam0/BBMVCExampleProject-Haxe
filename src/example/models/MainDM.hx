@@ -1,4 +1,4 @@
-package models;
+package example.models;
 import org.bbmvc.models.BBModel;
 
 /**

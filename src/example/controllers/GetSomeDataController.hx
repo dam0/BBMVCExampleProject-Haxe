@@ -1,5 +1,5 @@
-package controllers;
-import models.MainDM;
+package example.controllers;
+import example.models.MainDM;
 
 /**
  * ...

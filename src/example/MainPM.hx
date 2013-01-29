@@ -1,5 +1,5 @@
-package ;
-import models.MainDM;
+package example ;
+import example.models.MainDM;
 
 /**
  * ...
