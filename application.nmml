@@ -6,7 +6,7 @@
 	<meta title="TestNmeApp" package="x.y.z.TestNmeApp" version="1.0.0" company="Jonas Nyström" />
 	
 	<!-- output -->
-	<app main="Main" file="TestNmeApp" path="bin" />
+	<app main="example.Main" file="TestNmeApp" path="bin" />
 	
 	<window background="#ffffff" fps="60" />
 	<window width="800" height="480" unless="mobile" />
