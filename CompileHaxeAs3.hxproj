@@ -21,7 +21,7 @@
   <build>
     <option directives="" />
     <option flashStrict="False" />
-    <option mainClass="Main" />
+    <option mainClass="example.Main" />
     <option enabledebug="True" />
     <option additional="" />
   </build>
